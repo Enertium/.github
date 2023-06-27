@@ -1,6 +1,8 @@
-## Coming Soon...
+## We make privacy and safety accessible
 
 Our zero-knowledge privacy preserving physical and digital cyber-defence tools level the playing field against sophisticated stalkers, criminals, state actors.
+
+Coming soon...
 
 <!--
 
