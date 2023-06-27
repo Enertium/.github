@@ -1,5 +1,7 @@
 ## Coming Soon...
 
+Our zero-knowledge privacy preserving physical and digital cyber-defence tools level the playing field against sophisticated stalkers, criminals, state actors.
+
 <!--
 
 **Here are some ideas to get you started:**
